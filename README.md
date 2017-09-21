@@ -17,3 +17,7 @@ and the goal is to push the other player to the read wall
 and the fsm is that 
 if you are shifting. no body would attack you 
 and the any other state, you would hurt.
+
+表情包大作战
+说明：突然兴奋与突然消沉间，将敌人举高高。
+玩法：玩家一用wsad移动，j攻击，k闪避。玩家二用方向键移动，小键盘数字1攻击，数字2闪避。
